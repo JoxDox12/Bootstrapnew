@@ -1,0 +1,17 @@
+.who{
+    background-color: rgb(175, 35, 35);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+.what{
+    background-color: rgb(60, 48, 48);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+.where {
+    background-color: rgb(94, 61, 165);
+    color: rgb(255, 255, 255);
+}
+.col-sm-4{
+    margin-top: 10px;
+}
